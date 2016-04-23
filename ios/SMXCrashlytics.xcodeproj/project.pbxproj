@@ -169,6 +169,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../example/node_modules/react-native/React/**",
 					"$(SRCROOT)/../../react-native/React/**",
+					"$(SRCROOT)/../../../ios/Pods/Headers/Public/Crashlytics/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
@@ -218,6 +219,7 @@
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../example/node_modules/react-native/React/**",
 					"$(SRCROOT)/../../react-native/React/**",
+					"$(SRCROOT)/../../../ios/Pods/Headers/Public/Crashlytics/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
